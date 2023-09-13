@@ -447,7 +447,7 @@ span {
 }
 
 #testimonial {
-  background: var(--second--bg-color);
+  background: var(--bg-color);
 }
 
 .testimonial-container {
@@ -475,9 +475,9 @@ span {
   display: flex;
   align-items: center;
   flex-direction: column;
-  background: var(--bg-color);
+  background: var(--second--bg-color);
   border-radius: 5rem;
-  box-shadow: 0 0 2rem var(--main-color);
+  box-shadow: 0 0 2rem var(--bg-color);
   padding: 3rem 5rem;
   border-top: 0.8rem solid var(--main-color);
   border-bottom: 0.8rem solid var(--main-color);
